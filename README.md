@@ -1,2 +1,2 @@
-# Let-s-Camping-
+# Let-s-Camping
 Simple Site using Bootstrap Carousel
