@@ -1,2 +1,2 @@
 # Let-s-Camping
-Simple Site using Bootstrap Carousel
+Simple project using Bootstrap Carousel
